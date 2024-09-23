@@ -1,0 +1,12 @@
+#pragma once
+enum ENEMYSTATE :int
+{
+	ENONE = -1,
+	ATACKSTART,
+	ATACKING,
+	ATACKRESUTL,
+	NEXTSTATE,
+	DEADSTART,
+	DEADTING,
+	DEAD,
+};

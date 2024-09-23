@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+*.sln
+.vs/
+*.vcxproj
+*.filters
+*.user
+*.cd
+*.props
+*.ico
+*.rc
+*.acf
+*.acb
+*.wav
+*.aif
+Alien is Evolision/Audio/cri/
+Alien is Evolision/DirectXTK/
+Alien is Evolision/Release/
+Alien is Evolision/Resources/
+Debug/
+Release/

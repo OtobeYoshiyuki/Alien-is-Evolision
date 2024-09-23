@@ -1,0 +1,9 @@
+#pragma once
+enum ENERGY_CHAGE :int
+{
+	ENERGYNONE = -1,
+	TRACKING,
+	ENERGYUP,
+	ENERGYMAX,
+	ENERGYATACK,
+};
